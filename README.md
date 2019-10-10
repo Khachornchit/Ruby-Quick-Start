@@ -10,8 +10,8 @@ We need to install RubyInstaller, RubyGems, and Rails as follow installation gui
 * RubyInstaller Installation
     * Download RubyInstaller latest version from https://rubyinstaller.org/downloads/
     * Here is https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe
-    * Rub the installer file and choosing item 3 - MSYS2 and MINGGW development toolchain
-    * Waiting untill installation processing completely 
+    * Execute the exe file and choosing item 3 - MSYS2 and MINGGW development toolchain
+    * Wait untill installation processing completely 
     * Check version using command C:\ruby -v
         * It should display like >> ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
 
